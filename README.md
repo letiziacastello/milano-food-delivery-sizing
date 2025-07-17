@@ -52,12 +52,12 @@ Questo progetto stima il valore annuale generato dagli ordini di **pizza** e **s
 
 ---
 
-##  Provalo online
+## Provalo online
 
-👉 [**Clicca qui per usare l'app su Streamlit Cloud**](INSERISCI_LINK_DOPO_DEPLOY)
+ [Clicca qui per usare l'app su Streamlit Cloud](https://milano-food-delivery-sizing-9sbwka5xej3ohpinlwqkna.streamlit.app/)
 
 
-## 📎 Note finali
+##  Note finali
 
 Questo progetto è stato realizzato come parte di un percorso personale e accademico volto a migliorare le competenze in:
 - Business Analytics
